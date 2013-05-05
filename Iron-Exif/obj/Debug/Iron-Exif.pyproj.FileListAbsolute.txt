@@ -1,0 +1,5 @@
+C:\Users\ruben\Documents\SharpDevelop Projects\Iron-Exif\Iron-Exif\bin\Debug\Iron-Exif.exe.config
+C:\Users\ruben\Documents\SharpDevelop Projects\Iron-Exif\Iron-Exif\bin\Debug\Iron-Exif.exe
+C:\Users\ruben\Documents\SharpDevelop Projects\Iron-Exif\Iron-Exif\bin\Debug\Iron-Exif.dll
+C:\Users\ruben\Documents\SharpDevelop Projects\Iron-Exif\Iron-Exif\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ruben\Documents\SharpDevelop Projects\Iron-Exif\Iron-Exif\obj\Debug\Iron-Exif.exe
