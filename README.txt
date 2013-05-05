@@ -1,3 +1,6 @@
+<This is a work in progress>
+Here's what I'm working towards:
+
 Just another Exif Tool Wrapper
 Written in IronPython
 Built to scratch a certain itch.  Looks like quite a few folks are having this issue.  
