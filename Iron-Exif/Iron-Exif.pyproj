@@ -59,7 +59,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.py" />
     <Compile Include="ExifCommands.py" />
     <Compile Include="MainForm.py" />
     <Compile Include="Program.py" />

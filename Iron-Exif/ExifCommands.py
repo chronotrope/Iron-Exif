@@ -5,6 +5,8 @@
 		exif.startExif('_DSC0688.JPG','_DSC0688edited.JPG',1)
 		C:\Users\ruben\Documents\SharpDevelop Projects\Iron-Exif\Iron-Exif
 		>>> import ExifCommands as exif
+Usage example:
+>>> import clr
 >>> s1 = exif.ExifCommands('_DSC0688.JPG','_DSC0688edited.JPG',1)
 >>> myargs = s1.startExif()
 >>> myargs
@@ -19,7 +21,7 @@ True
 		
 		"""
 
-import clr
+
 from System.Diagnostics import Process
 import sys
 sys.path.append("C:\Program Files\IronPython 2.7\Lib")
